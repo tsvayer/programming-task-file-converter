@@ -1,0 +1,7 @@
+room_type meal;room_code;source;hotel_name;city_name;city_code;hotel_category;pax;adults;children;room_name;checkin;checkout;price
+EZ F;BER898;IHG;Crowne Plaza Berlin City Centre;Berlin;BER;4.0;1;1;0;Einzelzimmer;2018-07-21;2018-07-22;85.50
+EZ F;BER898;IHG;Crowne Plaza Berlin City Centre;Berlin;BER;4.0;1;1;0;Einzelzimmer;2018-07-22;2018-07-23;78.00
+EZ F;BER898;IHG;Crowne Plaza Berlin City Centre;Berlin;BER;4.0;1;1;0;Einzelzimmer;2018-07-23;2018-07-24;85.50
+DZ U;BER848;MARR;Berlin Marriott Hotel;Berlin;BER;5.0;2;2;0;Deluxe King;2018-07-21;2018-07-22;50.80
+DZ U;BER848;MARR;Berlin Marriott Hotel;Berlin;BER;5.0;2;2;0;Deluxe King;2018-07-22;2018-07-23;54.73
+DZ U;BER848;MARR;Berlin Marriott Hotel;Berlin;BER;5.0;3;2;1;Deluxe King;2018-07-23;2018-07-24;58.67
