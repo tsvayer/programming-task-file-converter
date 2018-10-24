@@ -32,5 +32,6 @@ namespace Cli.Model
     public DateTimeOffset CheckOut => CheckIn.AddDays(1);
     public decimal Price { get; set; }
     public string HotelCode { get; set; }
+    public decimal PricePerPax => decimal.Round(Price / Pax, 2);
   }
 }

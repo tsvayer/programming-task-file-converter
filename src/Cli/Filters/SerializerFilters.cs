@@ -56,7 +56,7 @@ namespace Cli.Filters
         record.RoomName,
         record.CheckIn.ToString("yyyy-MM-dd"),
         record.CheckOut.ToString("yyyy-MM-dd"),
-        record.Price);
+        record.PricePerPax);
 
     private static readonly JsonSerializerSettings DeserializerSettings =
       new JsonSerializerSettings
