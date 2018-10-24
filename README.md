@@ -1,3 +1,7 @@
+# Solutions
+
+- [C# Solution](https://github.com/tsvayer/programming-task-file-converter/tree/csharp)
+
 # Task
 
 Write a program CLI which should convert files from INPUT format in to OUTPUT format. You can find details below.
